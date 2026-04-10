@@ -27,7 +27,7 @@
 
 ```bash
 # Клонування репозиторію
-git clone [https://github.com/gr1zzIy/DirScanner.git](https://github.com/gr1zzIy/DirScanner.git)
+git clone https://github.com/gr1zzIy/DirScanner.git
 
 # Перехід у папку проекту
 cd DirScanner
